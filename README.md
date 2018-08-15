@@ -87,6 +87,8 @@
       secure: "encrypted"
   ```
 
+- Commit and push
+
 ## license
 
 This repo is licensed under the [MIT License](LICENSE).
