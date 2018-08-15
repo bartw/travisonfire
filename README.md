@@ -76,6 +76,11 @@
   ```
 
   ```yml
+  language: node_js
+  node_js:
+    - "node"
+  script:
+    -
   deploy:
     provider: firebase
     token:
